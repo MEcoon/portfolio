@@ -202,6 +202,13 @@ body {
     border-radius: 15px;
 }
 
+.lists {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    gap: 20px; 
+}
+
 .title {
     margin-top: 10px;
     font-size: 24px;
